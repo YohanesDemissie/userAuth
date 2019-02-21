@@ -1,0 +1,7 @@
+html,
+body,
+.app {
+  margin-top: 5%;
+  /* height: 100vh;  recommended */
+  background: #eee;
+}
